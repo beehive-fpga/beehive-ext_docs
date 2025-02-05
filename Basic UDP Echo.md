@@ -2,7 +2,7 @@
 
 Beehive works, at a high-level, by incrementally parsing or building packets. Here’s a simple example design for a UDP echo
 
-![beehive_overview](beehive_overview.png)
+![beehive_overview](figs/beehive_overview.png)
 
 Here’s an overview of what’s happening on the receive path
 
