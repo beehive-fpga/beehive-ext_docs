@@ -1,1 +1,0 @@
-This is the vault for Beehive external-facing docs, such as tutorials or minimal documentation
